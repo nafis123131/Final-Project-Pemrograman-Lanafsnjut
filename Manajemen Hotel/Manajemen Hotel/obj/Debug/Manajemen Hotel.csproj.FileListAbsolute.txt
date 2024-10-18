@@ -1,0 +1,10 @@
+E:\SEMESTER 3\Pemrograman Lanjut\FP\Manajemen Hotel\Manajemen Hotel\bin\Debug\Manajemen Hotel.exe.config
+E:\SEMESTER 3\Pemrograman Lanjut\FP\Manajemen Hotel\Manajemen Hotel\bin\Debug\Manajemen Hotel.exe
+E:\SEMESTER 3\Pemrograman Lanjut\FP\Manajemen Hotel\Manajemen Hotel\bin\Debug\Manajemen Hotel.pdb
+E:\SEMESTER 3\Pemrograman Lanjut\FP\Manajemen Hotel\Manajemen Hotel\obj\Debug\Manajemen Hotel.csproj.AssemblyReference.cache
+E:\SEMESTER 3\Pemrograman Lanjut\FP\Manajemen Hotel\Manajemen Hotel\obj\Debug\Manajemen_Hotel.FormLogin.resources
+E:\SEMESTER 3\Pemrograman Lanjut\FP\Manajemen Hotel\Manajemen Hotel\obj\Debug\Manajemen_Hotel.Properties.Resources.resources
+E:\SEMESTER 3\Pemrograman Lanjut\FP\Manajemen Hotel\Manajemen Hotel\obj\Debug\Manajemen Hotel.csproj.GenerateResource.cache
+E:\SEMESTER 3\Pemrograman Lanjut\FP\Manajemen Hotel\Manajemen Hotel\obj\Debug\Manajemen Hotel.csproj.CoreCompileInputs.cache
+E:\SEMESTER 3\Pemrograman Lanjut\FP\Manajemen Hotel\Manajemen Hotel\obj\Debug\Manajemen Hotel.exe
+E:\SEMESTER 3\Pemrograman Lanjut\FP\Manajemen Hotel\Manajemen Hotel\obj\Debug\Manajemen Hotel.pdb
